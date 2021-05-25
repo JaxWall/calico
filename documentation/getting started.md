@@ -16,7 +16,7 @@ You could theoretically work with Calico on any device, but I would politely beg
 
 Inkle offers Inky, an app for writing ink stories, which you can find [here](https://github.com/inkle/inky/releases/latest). 
 
-For editing the HTML, CSS, and Javascript, you can always use a basic text editor like Notepad, but if you're comfortable with it, my suggestion would be [Visual Studio Code](https://code.visualstudio.com/download) — which also has extensions to support writing ink files.
+For editing the HTML, CSS, and Javascript, you can always use a basic text editor like Notepad, but if you're comfortable with it, my suggestion would be [Visual Studio Code](https://code.visualstudio.com/download) — which has [extensions to support writing ink files](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink).
 
 ## A note, for those of you who can't code
 
